@@ -14,6 +14,7 @@ gem 'jbuilder', '~> 1.2'
 # learn-rails
 gem 'activerecord-tableless'
 gem 'compass-rails', '~> 1.1.7'
+gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
